@@ -19,7 +19,7 @@ Significant weaknesses were developed into prioritized audit findings and summar
 ## Project Deliverables
 
 - Brokerage Process & System Diagram
-- Risk Register + Risk Control Matrix Workbook
+- Risk Register + Risk & Control Matrix Workbook
 - Audit Findings Report
 - Executive Risk Assessment Report
 
